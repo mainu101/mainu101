@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Samira Begum
+- 👋 Hi, I’m Humira Jannat
 - 👀 I’m interested in coding.
 - 🌱 I’m currently learning javascript.
 - 💞️ I’m looking to collaborate on ...
